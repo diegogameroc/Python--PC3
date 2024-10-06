@@ -1,0 +1,5 @@
+from operaciones import*
+print(sumar(5,7))
+print(restar(5,7))
+print(multiplicar(5,7))
+print(dividir(5,7))
